@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-a single AND gate to and the inputs together. 
+A 2-4 binary decoder
 
 ## How to test
 
@@ -17,4 +17,4 @@ Go through truth table for inputs A, B.
 
 ## External hardware
 
-1 LED and a Resistor. 
+4 LEDS and 4 Resistors
